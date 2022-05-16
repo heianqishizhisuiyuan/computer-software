@@ -30,3 +30,4 @@
 |yarn|yarn|https://classic.yarnpkg.com/en/docs/install#windows-stable|
 |nrm|镜像源管理工具|https://www.npmjs.com/package/nrm|
 |rimraf|快速删除文件工具|https://www.npmjs.com/package/rimraf|
+|Ditto|剪贴板增强工具|https://ditto-cp.sourceforge.io/|
