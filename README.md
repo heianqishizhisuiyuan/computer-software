@@ -27,4 +27,6 @@
 |jdk|java开发环境|https://www.injdk.cn/|
 |node|nodejs|http://nodejs.cn/|
 |gnvm|Windows 下 Node.js 多版本管理器|https://github.com/kenshin/gnvm|
-|yarn|||
+|yarn|yarn|https://classic.yarnpkg.com/en/docs/install#windows-stable|
+|nrm|镜像源管理工具|https://www.npmjs.com/package/nrm|
+|rimraf|快速删除文件工具|https://www.npmjs.com/package/rimraf|
