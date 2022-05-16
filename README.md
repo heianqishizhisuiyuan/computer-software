@@ -22,7 +22,8 @@
 |Clash for Windows|科学上网工具|https://github.com/Fndroid/clash_for_windows_pkg/releases|
 |Telegram|聊天工具|https://telegram.org/|
 |Fences|桌面管理工具|https://store.steampowered.com/|
-|激活工具|window和office激活方法||Fences|桌面管理工具|https://store.steampowered.com/||
+|激活工具|window和office激活方法|https://www.ghxi.com/kms.html|
+|Fences|桌面管理工具|https://store.steampowered.com/|
 |cmder|cmd|https://cmder.net/|
 |jdk|java开发环境|https://www.injdk.cn/|
 |node|nodejs|http://nodejs.cn/|
