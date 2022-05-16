@@ -33,4 +33,5 @@
 |Ditto|剪贴板增强工具|https://ditto-cp.sourceforge.io/|
 |Git|git|https://git-scm.com/|
 |TortoiseGit|gti可视化工具|http://tortoisegit.org/download/|
-|tortoisesvn|tortoisesvn|https://tortoisesvn.net/downloads.html|
+|Tortoisesvn|svn可视化工具|https://tortoisesvn.net/downloads.html|
+|搜狗输入法|输入法|https://pinyin.sogou.com/|
