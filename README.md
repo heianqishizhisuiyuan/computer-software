@@ -27,7 +27,7 @@
 |cmder|cmd|https://cmder.net/|
 |jdk|java开发环境|https://www.injdk.cn/|
 |node|nodejs|http://nodejs.cn/|
-|nvm|支持多个平台的 Node.js 多版本管理器|[https://github.com/kenshin/gnvm](https://github.com/nvm-sh/nvm)|
+|nvm|支持多个平台的 Node.js 多版本管理器（推荐）|[https://github.com/kenshin/gnvm](https://github.com/nvm-sh/nvm)|
 |gnvm|Windows 下 Node.js 多版本管理器|https://github.com/kenshin/gnvm|
 |yarn|yarn|https://classic.yarnpkg.com/en/docs/install#windows-stable|
 |nrm|镜像源管理工具|https://www.npmjs.com/package/nrm|
