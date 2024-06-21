@@ -38,7 +38,8 @@
 |TortoiseGit|gti可视化工具|http://tortoisegit.org/download/|
 |Tortoisesvn|svn可视化工具|https://tortoisesvn.net/downloads.html|
 |搜狗输入法|输入法|https://pinyin.sogou.com/|
-|系统及office激活|输入法|https://github.com/zbezj/HEU_KMS_Activator|
+|系统及office激活|激活工具|https://github.com/zbezj/HEU_KMS_Activator  https://github.com/massgravel/Microsoft-Activation-Scripts|
+|snipaste| 截图+贴图工具|https://zh.snipaste.com/   |
 
 
 
