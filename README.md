@@ -40,6 +40,12 @@
 |搜狗输入法|输入法|https://pinyin.sogou.com/|
 |系统及office激活|激活工具|https://github.com/zbezj/HEU_KMS_Activator  https://github.com/massgravel/Microsoft-Activation-Scripts|
 |snipaste| 截图+贴图工具|https://zh.snipaste.com/   |
+|Apifox| 接口管理神器工具|https://apifox.com/   |
 
+# npm 常用包
 
+|numeral| 格式化和处理数字的库|http://numeraljs.com/  |
+|SSF| 格式化数据的库|https://git.sheetjs.com/sheetjs/sheetjs/src/branch/master/packages/ssf  |
+|echarts-for-react|  ECharts 的 React 组件封装 |https://github.com/hustcc/echarts-for-react|
 
+# VSCode插件
