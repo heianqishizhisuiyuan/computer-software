@@ -43,7 +43,8 @@
 |Apifox| 接口管理神器工具|https://apifox.com/   |
 
 # npm 常用包
-
+| 库名 | 介绍 | 网址 |
+| --- | --- | --- |
 |numeral| 格式化和处理数字的库|http://numeraljs.com/  |
 |SSF| 格式化数据的库|https://git.sheetjs.com/sheetjs/sheetjs/src/branch/master/packages/ssf  |
 |echarts-for-react|  ECharts 的 React 组件封装 |https://github.com/hustcc/echarts-for-react|
