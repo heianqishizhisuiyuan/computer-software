@@ -70,7 +70,7 @@
 
 | 软件名称          | 介绍           | 网址                                                      |
 | ----------------- | -------------- | --------------------------------------------------------- |
-| Clash for Windows | 网络代理工具   | https://github.com/Fndroid/clash_for_windows_pkg/releases |
+| clash-verge-rev | 网络代理工具   | https://github.com/clash-verge-rev/clash-verge-rev |
 | Karing            | 多平台代理工具 | https://github.com/KaringX/karing                         |
 
 ## 翻译工具
