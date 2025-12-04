@@ -47,6 +47,11 @@
 | Bandizip   | 压缩文件管理工具       | https://cn.bandisoft.com/bandizip/ |
 | Fences     | 桌面整理工具           | https://store.steampowered.com/    |
 | uTools     | 效率工具集             | https://www.u-tools.cn/            |
+| 腾讯柠檬     | Mac软件管理工具            | https://lemon.qq.com/          |
+| mos     | 可以让你的鼠标在 macOS 上实现顺滑滚动    | https://mos.caldis.me/  |
+| 超级右键     |从win系统过来的用户，会发现在桌面上右键创建文件功能缺少，可以使用该软件解决    | https://www.better365.cn/irightmouse.html  |
+| FastZip     | 文件压缩和解压的软件，推荐他的理由是支持的格式足够多    | AppStore搜索  |
+| OrbStack     | 本地docker desktop类工具    | https://orbstack.dev  |
 
 ## 通讯与协作工具
 
